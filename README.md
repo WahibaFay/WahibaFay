@@ -34,7 +34,7 @@
 |--------|-------------|
 | [cyber-infrastructure-labs](https://github.com/WahibaFay/cyber-infrastructure-labs) | Réseau multi-VLAN, Active Directory, WordPress Docker |
 | [volatility-forensic-lab](https://github.com/WahibaFay/volatility-forensic-lab) | Analyse mémoire forensique — extraction de processus, détection de malware |
-| aws-security-audit *(en cours)* | Audit sécurité AWS réel — Security Hub, GuardDuty, IAM |
+| [aws-security-audit](https://github.com/WahibaFay/aws-security-audit) | Audit sécurité AWS réel — Security Hub, GuardDuty, IAM |
 
 ---
 
